@@ -5,3 +5,4 @@ int main(void)
 	printf("%c",a);
 	return 0;
 }
+利用65输出字符A
